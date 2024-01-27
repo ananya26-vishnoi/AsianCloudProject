@@ -82,5 +82,4 @@ You can simply see all scraped data afet opening ip: 127.0.0.1:8000
 
 # Task 2
 
-You can find Nginx file here: 
-git clone https://github.com/ananya26-vishnoi/Asian_task_2.git
+You can find Nginx file here:  https://github.com/ananya26-vishnoi/AsianCloudTask2
